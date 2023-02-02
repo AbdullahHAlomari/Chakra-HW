@@ -2,9 +2,6 @@ import React, { useState } from "react";
 import { Box, Button, ButtonGroup, Card, CardBody, CardFooter, chakra, Divider, Flex, Heading, HStack, Icon, Image, Link, SimpleGrid, Stack, Text } from "@chakra-ui/react";
 
 
-import { MdEmail, MdHeadset, MdLocationOn } from "react-icons/md";
-import { BsFillBriefcaseFill } from "react-icons/bs";
-
 export default function Home(){
   const arrowStyles = {
     cursor: "pointer",
